@@ -1,0 +1,12 @@
+C:\Education\UGR\DS\calculator-ugr\bdd.workshop.calculator\bin\Debug\net5.0\bdd.workshop.calculator.deps.json
+C:\Education\UGR\DS\calculator-ugr\bdd.workshop.calculator\bin\Debug\net5.0\bdd.workshop.calculator.dll
+C:\Education\UGR\DS\calculator-ugr\bdd.workshop.calculator\bin\Debug\net5.0\bdd.workshop.calculator.pdb
+C:\Education\UGR\DS\calculator-ugr\bdd.workshop.calculator\obj\Debug\net5.0\bdd.workshop.calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\UGR\DS\calculator-ugr\bdd.workshop.calculator\obj\Debug\net5.0\bdd.workshop.calculator.AssemblyInfoInputs.cache
+C:\Education\UGR\DS\calculator-ugr\bdd.workshop.calculator\obj\Debug\net5.0\bdd.workshop.calculator.AssemblyInfo.cs
+C:\Education\UGR\DS\calculator-ugr\bdd.workshop.calculator\obj\Debug\net5.0\bdd.workshop.calculator.csproj.CoreCompileInputs.cache
+C:\Education\UGR\DS\calculator-ugr\bdd.workshop.calculator\obj\Debug\net5.0\bdd.workshop.calculator.dll
+C:\Education\UGR\DS\calculator-ugr\bdd.workshop.calculator\obj\Debug\net5.0\refint\bdd.workshop.calculator.dll
+C:\Education\UGR\DS\calculator-ugr\bdd.workshop.calculator\obj\Debug\net5.0\bdd.workshop.calculator.pdb
+C:\Education\UGR\DS\calculator-ugr\bdd.workshop.calculator\obj\Debug\net5.0\ref\bdd.workshop.calculator.dll
+C:\Education\UGR\DS\calculator-ugr\bdd.workshop.calculator\obj\Debug\net5.0\bdd.workshop.calculator.sourcelink.json
